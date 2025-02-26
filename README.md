@@ -1,2 +1,1 @@
-# marketing.qa.whoop.com
-marketing.qa.whoop.com
+# Subdomain Takeover  by 1bdool492
